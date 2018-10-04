@@ -1,0 +1,3 @@
+C:\Users\ShenYin BaiGuang\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.postprocessing@2.0.3-preview
+C:\Users\ShenYin BaiGuang\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.render-pipelines.core@1.1.4-preview
+C:\Users\ShenYin BaiGuang\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.render-pipelines.high-definition@1.1.4-preview
